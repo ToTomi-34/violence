@@ -1,0 +1,47 @@
+body {
+    background-color: #0f111f;
+    margin: 0;
+}
+main {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#title {
+    height: auto;
+    width: auto;
+    background-color: #0f111f;
+    color: #c23c21;
+    border-radius: 10%;
+}
+#p-item {
+    background-color: #0f111f;
+}
+img {
+    margin: 0.7vw;
+    height: auto;
+    width: 70%;
+}
+#pack-3-fts {
+    display: flex;
+    flex-direction: column;
+}
+#bttn-ft {
+    margin-left: 7vw;
+    margin-right: 7vw;
+    margin-bottom: 1.3vh;
+    border-radius: 30vh;
+    border: none;
+    padding: 1%;
+    background-color: #ff4800;
+    font-size: 100%;
+    color: white;
+}
+#pack-2-fts {
+    text-align: center;
+}
+#pack-img {
+    text-align: center;
+}
+h4 {
+    color: #ffff00;
+}
